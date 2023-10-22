@@ -1,6 +1,7 @@
 # vim-academic
 Starter Vim setup for academic writing in markdown with pandoc and bibtex support.  
-** Be advised that this repo is a modification of `airbornelamb/vim-academic` project. His project uses Turabian, while I use Chicago Style and I've made modifications to `install.sh`.  
+
+** Be advised that this repo is a modification of `airbornelamb/vim-academic` project. His project uses Turabian, while I use Chicago Style and I've made modifications to `install.sh`.**
 
 ## What does this do?
 
