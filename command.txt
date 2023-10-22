@@ -1,0 +1,9 @@
+with citations
+
+pandoc PAPER.mkd  --standalone --bibliography PAPER.bib --csl=chicago-author-date.csl --reference-doc=prtstemplate.docx -o FINALPAPER.docx
+
+
+
+without citations
+
+pandoc anthropologymidterm.md --reference-docx=prtstemplate.docx -o anthropologymidterm.docx
